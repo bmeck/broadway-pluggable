@@ -1,0 +1,9 @@
+{
+   "name": "pluggable",
+   "description": "Load broad way plugins via a config",
+   "version": "0.0.0",
+   "main": "lib/index.js",
+   "devDependencies": {
+      "broadway": "~0.2.5"
+   }
+}
